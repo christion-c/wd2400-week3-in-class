@@ -7,7 +7,7 @@ import { StyleSheet, View, Text, TextInput, Button, FlatList, SafeAreaView, Aler
 import { collection, onSnapshot, addDoc } from 'firebase/firestore'; 
  
 // 🛑 TODO: IMPORT THE FIRESTORE INSTANCE
-import { db } from './firebaseConfig.js'; 
+import { db } from './firebaseConfig'; 
  
 // --- DUMMY DATA FOR INITIAL RENDER (Students must replace this!) ---
 const initialDishes = [
