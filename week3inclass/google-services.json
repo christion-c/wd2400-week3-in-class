@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156903421598",
+    "project_id": "rn-potluck-class-12e72",
+    "storage_bucket": "rn-potluck-class-12e72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156903421598:android:595c86e35434b146b62d8f",
+        "android_client_info": {
+          "package_name": "com.ccallahan.week3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHFpiQY6P__NjleaMH7Imz9gB7VVURVxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
