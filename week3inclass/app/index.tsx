@@ -22,7 +22,7 @@ const DishItem = ({ dish, bringer }: {dish: any, bringer: any}) => (
   </View>
 );
  
-export default function App() {
+export default function Index() {
   const [dishes, setDishes] = useState(initialDishes);
   const [newDishName, setNewDishName] = useState('');
   const [newBringerName, setNewBringerName] = useState('');

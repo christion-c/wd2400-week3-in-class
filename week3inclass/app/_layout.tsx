@@ -1,7 +1,7 @@
 
 import 'react-native-reanimated';
 
-import App from './app';
+import { Stack } from 'expo-router';
 import React from 'react';
 
 export const unstable_settings = {
@@ -9,8 +9,5 @@ export const unstable_settings = {
 };
 
 export default function RootLayout() {
-
-  return (
-    <App/>
-  );
+  return <Stack screenOptions={{ headerShown: false }} />;
 }
