@@ -1,1 +1,0 @@
-# wd2400-week3-in-class
